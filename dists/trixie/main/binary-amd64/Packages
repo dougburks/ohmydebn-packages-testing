@@ -4,16 +4,16 @@ License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 202
-Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libgtk-4-dev, libnotify-bin, lshw, neovim, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Installed-Size: 203
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libgtk-4-dev, libnotify-bin, lshw, neovim, ohmydebn-themes, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_2.4.0_all.deb
-Size: 52452
-SHA256: 9546e0981ef3a40ac48d43c79d8e84b4541fc783e621b7d6854f478eb81d6521
-SHA1: 0de77547f72e92f92f0cec693043da1a5ff86fc8
-MD5sum: 244f00139c2b7238d04798adedc70fad
+Size: 52344
+SHA256: fd0e972cda6433b7e706f3563a08ab70b5a93167faad87a63ee80e85f4e9619b
+SHA1: 609cd767bdfa381d3b980159caea6c2ca8815cae
+MD5sum: e0ffbec3928f2bc82f2078c629e1f8c6
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-themes
