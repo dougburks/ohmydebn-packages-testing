@@ -1,0 +1,34 @@
+Package: ohmydebn
+Version: 2.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 203
+Homepage: “https://ohmydebn.org”
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn/ohmydebn_2.4.0_all.deb
+Size: 52698
+SHA256: dbdc86a4a6517853a92e72bb624da3657e1ab48c30963c3850e620229f774f5e
+SHA1: 7519e0c5ae77f70cb98a2b0222e56081563f244c
+MD5sum: b2a8ceda4d26e261d782753b5d9998ec
+Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
+
+Package: ohmydebn-themes
+Version: 1.0.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 42838
+Homepage: “https://ohmydebn.org”
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes/ohmydebn-themes_1.0.0_all.deb
+Size: 43668780
+SHA256: 8c8ae97af034776b2debe71edfdde0d9feebfa364bb45d19bd5b9f1efe772cdb
+SHA1: 9cfb274e7c7fdebfd12b3e60fb0e8cc924ba0435
+MD5sum: c0d636562ed6dc8df46b0fcbb7a9487b
+Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
+
