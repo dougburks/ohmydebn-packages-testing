@@ -22,15 +22,15 @@ License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 1207
+Installed-Size: 2766
 Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.17.0_all.deb
-Size: 469648
-SHA256: e3fdc66cb36a86f633ee8903303e59b0e99e357114be28f07f2ff2ca3bde23e4
-SHA1: 869a678d5c8d6b693c3a10afab5591663835a39d
-MD5sum: 00d6f8a2293b33e8d934a3b7d2d91808
+Size: 2019590
+SHA256: 87e0ce1da051b0a8e8204a4a65861aeb4007676da65b458459a37a17e05a09fb
+SHA1: 53c723ead694c0fbaf06857b3e944a4958e2c9af
+MD5sum: 202444bbd8c07d75b77d7df7ab23b2bb
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-themes
