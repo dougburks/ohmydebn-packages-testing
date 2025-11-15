@@ -27,9 +27,9 @@ Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes/ohmydebn-themes_1.0.0_all.deb
-Size: 43668780
-SHA256: 8c8ae97af034776b2debe71edfdde0d9feebfa364bb45d19bd5b9f1efe772cdb
-SHA1: 9cfb274e7c7fdebfd12b3e60fb0e8cc924ba0435
-MD5sum: c0d636562ed6dc8df46b0fcbb7a9487b
-Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
+Size: 43668758
+SHA256: 1e95c3adf87e0bf9156c750a175a69a8f167adc67b7fc7a3da24fc5ea5709353
+SHA1: f5bc60aed2cc14be766db92f32df72ccc0982b51
+MD5sum: fbd9d754acf37df64a139ddf795c45ba
+Description: OhMyDebn themes
 
