@@ -51,7 +51,7 @@ MD5sum: 9cd9fa5bea038db7e1efa26e3a400424
 Description: Themes for OhMyDebn
 
 Package: ohmydebn-themes-omarchy
-Version: 1.0.0
+Version: 3.1.7
 License: unknown
 Vendor: none
 Architecture: all
@@ -60,10 +60,10 @@ Installed-Size: 30921
 Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_1.0.0_all.deb
-Size: 30558454
-SHA256: 3fce47338e2331888e010c4a7cf2c73cb6eb4b5ac0351348a3ce868b759158a4
-SHA1: 4c4dbf7e1f5d9bd579efcfe0add0bb1c946fafaf
-MD5sum: d0736e08fd800ea405d79bd6cc83c54f
+Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.1.7_all.deb
+Size: 30558286
+SHA256: 41030aaa84e1e71a8929dbab2435dca612b796f52e45d79d8f35c90001ecb3e2
+SHA1: 8615c9c30dc319caff949614ae8162b14e07c356
+MD5sum: 443afdb5f437b2bb37a2bbd999483863
 Description: Themes from Omarchy packaged for OhMyDebn
 
