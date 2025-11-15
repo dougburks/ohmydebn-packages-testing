@@ -44,9 +44,9 @@ Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_1.0.0_all.deb
-Size: 30557698
-SHA256: eda48861896aadbffff62bc547aa44b9d5cf3e0b8024e00ee53e27dd00cd6f30
-SHA1: b3857c53be2d144bd9a97d3d6efe5bf8715c186d
-MD5sum: 0a6df35d1a460f293b02cf78ecbe4b75
-Description: Themes from Omarchy for OhMyDebn
+Size: 30557708
+SHA256: b09a4dcf1384d33e610251db94b1f6d042dd851655246dffd6153c9d8463b485
+SHA1: 86016decc07374b46ef1316d434a1a9863284bb0
+MD5sum: 0df82d8c6cf1f4390d054af0fcf32adf
+Description: Themes from Omarchy packaged for OhMyDebn
 
