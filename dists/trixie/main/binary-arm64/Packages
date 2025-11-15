@@ -27,10 +27,10 @@ Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.17.0_all.deb
-Size: 2019562
-SHA256: b79a6dbd061e5867648ca5121cfc3731f62009aa7e912682029fd7f2734389d8
-SHA1: 11bff1de4763da0ff5566f696a771130b91cd3c2
-MD5sum: 9491bf2208016c90d3e40569d42757e2
+Size: 2019602
+SHA256: de4af48a382fefb214712283e11e830c273bac8d8fe61c22d18ba62f664e58c0
+SHA1: b1699d3b6f93a4ee79ebe092f09408a820778a47
+MD5sum: 87f448d15e8a51b4b2e8e996f7870f24
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-themes
