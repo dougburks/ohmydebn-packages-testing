@@ -5,15 +5,15 @@ Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
 Installed-Size: 202
-Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libgtk-4-dev, libnotify-bin, lshw, neovim, ohmydebn-aether, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libnotify-bin, lshw, neovim, ohmydebn-aether, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_2.4.0_all.deb
-Size: 52284
-SHA256: 1f3e12477ad1ab7d10c05c7fb809654f0c41932cf905ec9e6045ba07f17f72f0
-SHA1: 66905e989db41f821c26e7255e5d5ef1fbd2206e
-MD5sum: de5030b682dff973505262271f7b1136
+Size: 52216
+SHA256: 089d7afe65e936446305766c864f369513aa771783ba0d2914ac6d751b956161
+SHA1: e8da567e781962c7b6d4c47806d905618ff0ca4e
+MD5sum: 89f5355d5dc336eb9eff13bc45fdf07a
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
