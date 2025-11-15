@@ -40,15 +40,14 @@ Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
 Installed-Size: 42838
-Depends: ohmydebn-themes-omarchy
 Homepage: “https://ohmydebn.org”
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes/ohmydebn-themes_1.0.0_all.deb
-Size: 43668774
-SHA256: ecffc5213a2f66ce50656f48a9f8d27db23cc7020af6c642635126c9af0a7d7c
-SHA1: f6f6c1ad504253a4a0e8499f7a856bd8a19b71f5
-MD5sum: 546e4b248aeb9cfa4875dda4b45c0ba8
+Size: 43668810
+SHA256: df65ae65f89983f954836637f65f489ca1ee22749e62f9d02ed161de7f5302ab
+SHA1: a417f6a1750337160e957622018001eff63fcff4
+MD5sum: 9280a033345458b72ce36dc5a2641c6a
 Description: Themes for OhMyDebn
 
 Package: ohmydebn-themes-omarchy
