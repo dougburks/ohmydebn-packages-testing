@@ -1,3 +1,54 @@
+Package: mint-themes
+Version: 2.1.6
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 46769
+Depends: mint-x-icons, mint-y-icons
+Conflicts: cinnamon-themes, mint-clearloox-theme, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Replaces: cinnamon-themes, mint-clearloox-theme, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Priority: optional
+Section: gnome
+Filename: pool/main/m/mint-themes/mint-themes_2.1.6_all.deb
+Size: 1642732
+SHA256: c7ff75e8c935d4b354d57faf59b5f7967aac55156970c580e1c7e07ed60681d6
+SHA1: dc08a84da0cfd7b4e30e0faff34b4a14c8139253
+MD5sum: c9a312935283d12de7bc3bdeecde9b93
+Description: Mint themes
+ A collection of mint themes.
+
+Package: mint-x-icons
+Version: 1.6.5
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 120628
+Priority: optional
+Section: gnome
+Filename: pool/main/m/mint-x-icons/mint-x-icons_1.6.5_all.deb
+Size: 10966196
+SHA256: 829c8a2b1d2c4931684d69d042c179211001c9def85ec2a878f45a2616b23a91
+SHA1: d1758f62ac3ac9cf64d5a8a07a507182a92b20d6
+MD5sum: e1c040bef290ce372a8e3dceee494bd6
+Description: Mint-X icon theme
+ A mint/metal theme based on mintified versions of
+ Clearlooks Revamp, Elementary and Faenza.
+
+Package: mint-y-icons
+Version: 1.7.2
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 112644
+Homepage: https://github.com/linuxmint/mint-y-icons
+Priority: optional
+Section: gnome
+Filename: pool/main/m/mint-y-icons/mint-y-icons_1.7.2_all.deb
+Size: 67191756
+SHA256: cf098c3bb1f0b3a528d25197fc64d821f5282317f9ce7c12d39e8a0de9e0f140
+SHA1: eef1bd228411d8378ba5661dd3a7e8ecf9d58f75
+MD5sum: 0196d02e19ebe283f5960f0b7b3081a8
+Description: Mint-Y icon theme
+ A flat, colorful, and modern theme based on
+ Paper and Moka.
+
 Package: ohmydebn
 Version: 2.4.0
 License: unknown
