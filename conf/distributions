@@ -1,0 +1,7 @@
+Origin: Doug Burks
+Label: OhMyDebn Repo
+Codename: trixie
+Architectures: amd64 arm64 source
+Components: main
+Description: Repository for OhMyDebn
+SignWith: 983364A21C37D16AB53B959E7D8932E3EE41B9D1

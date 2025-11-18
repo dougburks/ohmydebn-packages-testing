@@ -1,0 +1,120 @@
+Package: mint-themes
+Version: 2.1.6
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 46769
+Depends: mint-x-icons, mint-y-icons
+Conflicts: cinnamon-themes, mint-clearloox-theme, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Replaces: cinnamon-themes, mint-clearloox-theme, mint-themes-gtk3, mint-x-theme, mint-y-theme, mint-z-theme
+Priority: optional
+Section: gnome
+Filename: pool/main/m/mint-themes/mint-themes_2.1.6_all.deb
+Size: 1642732
+SHA256: c7ff75e8c935d4b354d57faf59b5f7967aac55156970c580e1c7e07ed60681d6
+SHA1: dc08a84da0cfd7b4e30e0faff34b4a14c8139253
+MD5sum: c9a312935283d12de7bc3bdeecde9b93
+Description: Mint themes
+ A collection of mint themes.
+
+Package: mint-x-icons
+Version: 1.6.5
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 120628
+Priority: optional
+Section: gnome
+Filename: pool/main/m/mint-x-icons/mint-x-icons_1.6.5_all.deb
+Size: 10966196
+SHA256: 829c8a2b1d2c4931684d69d042c179211001c9def85ec2a878f45a2616b23a91
+SHA1: d1758f62ac3ac9cf64d5a8a07a507182a92b20d6
+MD5sum: e1c040bef290ce372a8e3dceee494bd6
+Description: Mint-X icon theme
+ A mint/metal theme based on mintified versions of
+ Clearlooks Revamp, Elementary and Faenza.
+
+Package: ohmydebn
+Version: 2.5.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 201
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libnotify-bin, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn/ohmydebn_2.5.0_all.deb
+Size: 51572
+SHA256: c790055acb9b2e0b53ad2d1da4629743da0f6728280b6d5334372f949532c05e
+SHA1: e181a647d81acbaca6bd1af02f0ad39a64ac1acc
+MD5sum: deacbfffd5bb57b94ece85fc0a9364f0
+Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
+
+Package: ohmydebn-aether
+Version: 2.17.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 1202
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.17.0_all.deb
+Size: 467822
+SHA256: b0a6e7d83fcf64ce82be55b4efc931cf5f80b3030f9df3f1c5d48509912dbfe9
+SHA1: b4c787c56d4dbd85775ad2d7bfe7406ae97b95ea
+MD5sum: 9d011eb64f6e4fc050cc72ec3c668078
+Description: Aether theme builder packaged for OhMyDebn
+
+Package: ohmydebn-gtile
+Version: 2.2.1
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 453
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-gtile/ohmydebn-gtile_2.2.1_all.deb
+Size: 83646
+SHA256: c1468f29b5f88a9cd7a309ce6bc79d4aecbabb56df596c3d2d63134f219ea555
+SHA1: cceff5ab621a0db85e99c71709d8425cd519f6d6
+MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
+Description: gtile-OhMyDebn extension for Cinnamon desktop
+
+Package: ohmydebn-themes
+Version: 1.0.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 42838
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes/ohmydebn-themes_1.0.0_all.deb
+Size: 43668818
+SHA256: a799edb4c6fbf8ee0ce924a94254ffb65fef35d4893ba193c67c053eade519d1
+SHA1: 6a0432061c578eb45dae4f8537508466af2266d6
+MD5sum: 3bf02ff96088b34fbcb1e6ce7a0246f9
+Description: Themes for OhMyDebn
+
+Package: ohmydebn-themes-omarchy
+Version: 3.1.7
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 30921
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.1.7_all.deb
+Size: 30558476
+SHA256: fee746222b28eda35faf353d4278ae0c6966b11dd6e6eaa89aa4440cb05f52e0
+SHA1: 33604893aba0cad72c00155b8b991c16a18a349f
+MD5sum: cd366ff827721936cd2594a81c1f9c94
+Description: Themes from Omarchy packaged for OhMyDebn
+
