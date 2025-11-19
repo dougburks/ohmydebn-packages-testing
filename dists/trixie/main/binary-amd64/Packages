@@ -38,16 +38,16 @@ License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 200
+Installed-Size: 199
 Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libnotify-bin, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_2.5.0_all.deb
-Size: 51342
-SHA256: 7162fb60e561fde74c0b19a014e070eb1f3f7f4571eadc1de30d13483dddea85
-SHA1: fd7e7ec6cb5fd3f16687c3586db44121ec897eb7
-MD5sum: 4945191e9e56c8835aafd711aea783c8
+Size: 51038
+SHA256: 2e5ad109ee34701055a5596163d1bb6fc4a13cffe6d5c21fd2ff9a38dc39734d
+SHA1: 62e88d827e60b725632b7a9a57585bed76765ae1
+MD5sum: 2aa99bff29d1d9b8a9dc0845bbb620a6
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
