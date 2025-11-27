@@ -78,11 +78,12 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-caskaydiamononerdfont/ohmydebn-caskaydiamononerdfont_3.4.0_all.deb
-Size: 17702190
-SHA256: a50e6ceb7c94b46606c0584a6686c54914a24e359eec382ac125981dd1fef9c9
-SHA1: b4edf7421fc1f799edafa4840c48e96c160a1ec4
-MD5sum: 8c84c5c043a869225fadf4c480742b9a
+Size: 17702214
+SHA256: dba8bec5cac76471bc3b3aa30b91b9aeae6cd271d70715839249917980664702
+SHA1: 2e59d000d0ad0de2beb1674fcb64aac5269ea1cb
+MD5sum: 596efe26de20061a24311c534e46eea4
 Description: Caskaydia Mono Nerd Font packaged for OhMyDebn
+Triggers-Pending: font-update
 
 Package: ohmydebn-caskaydiamononerdfontmono
 Version: 3.4.0
@@ -95,11 +96,12 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-caskaydiamononerdfontmono/ohmydebn-caskaydiamononerdfontmono_3.4.0_all.deb
-Size: 18931948
-SHA256: 6a4283ec9c89c372c9fa4d5625aaa0f9b76fa5119066924745dd7a7f95798e48
-SHA1: 2b04a1aa609f60a8377248ef4a302300200e9c50
-MD5sum: 36b3acde83033f78d12efd3aadf1f42a
+Size: 18931970
+SHA256: 767d5ab8f85a4e3571f02ce7f92d9a81e8d7d3e6c55f17c9c709a6d28f541b34
+SHA1: 9a9f0c391585043706efef34e0ebaa784d768c36
+MD5sum: 32b5130c4297bfecf10d57b2ace29277
 Description: Caskaydia Mono Nerd Font Mono packaged for OhMyDebn
+Triggers-Pending: font-update
 
 Package: ohmydebn-caskaydiamononerdfontpropo
 Version: 3.4.0
@@ -112,11 +114,12 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-caskaydiamononerdfontpropo/ohmydebn-caskaydiamononerdfontpropo_3.4.0_all.deb
-Size: 17787214
-SHA256: 17833bc998f03616ba3ea88410611ace1ea34d68eaff67e3d698535145f816bf
-SHA1: 7bdd1b94b0722581591b0f7d2c0c6b175ba19732
-MD5sum: 93f2630ad62a174abf43f6c4763c9ce4
+Size: 17787238
+SHA256: 16b78a5cc7d6be46e0f177d06bf5829077d823e741f5e1cd0e95ec0be88ddd0f
+SHA1: f5bd7a503225216832d1a640a6fa285d028d86b0
+MD5sum: c0438f332ff9da3c0b32583efc89fbcb
 Description: Caskaydia Mono Nerd Font Propo packaged for OhMyDebn
+Triggers-Pending: font-update
 
 Package: ohmydebn-gtile
 Version: 2.2.1
