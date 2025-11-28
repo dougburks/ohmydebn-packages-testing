@@ -4,62 +4,62 @@ Hash: SHA512
 Origin: Doug Burks
 Label: OhMyDebn Repo
 Codename: trixie
-Date: Fri, 28 Nov 2025 12:16:09 UTC
+Date: Fri, 28 Nov 2025 12:24:25 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Repository for OhMyDebn
 MD5Sum:
- cf66b83bfa9407c31c83138b9859dc57 6582 main/binary-amd64/Packages
- 2308d1b7cba6dbb5a178dc3330508225 2288 main/binary-amd64/Packages.gz
+ a93e28f1714c36a067ac35276fd1fac3 6492 main/binary-amd64/Packages
+ 1ada7fd5fc5431a6f7fcfea3bfed8453 2262 main/binary-amd64/Packages.gz
  c78cd99c739ea234bc24782529e583bb 113 main/binary-amd64/Release
- cf66b83bfa9407c31c83138b9859dc57 6582 main/binary-arm64/Packages
- 2308d1b7cba6dbb5a178dc3330508225 2288 main/binary-arm64/Packages.gz
+ a93e28f1714c36a067ac35276fd1fac3 6492 main/binary-arm64/Packages
+ 1ada7fd5fc5431a6f7fcfea3bfed8453 2262 main/binary-arm64/Packages.gz
  cab0525725d99fa6ee8236706d37626f 113 main/binary-arm64/Release
- cf66b83bfa9407c31c83138b9859dc57 6582 main/binary-armhf/Packages
- 2308d1b7cba6dbb5a178dc3330508225 2288 main/binary-armhf/Packages.gz
+ a93e28f1714c36a067ac35276fd1fac3 6492 main/binary-armhf/Packages
+ 1ada7fd5fc5431a6f7fcfea3bfed8453 2262 main/binary-armhf/Packages.gz
  27288b723e3a8ce8d530115b7419da15 113 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  30b5b59a5fdf1c09a7c195b60f06697f 114 main/source/Release
 SHA1:
- 63a16df291c7a50d0bf711cc738e50a2f06be1b1 6582 main/binary-amd64/Packages
- ae2048077723f8ec776cfcfa7a19b0bd300fdec7 2288 main/binary-amd64/Packages.gz
+ 0fd36848487f1bcc6dc35549b2de13033d3052fc 6492 main/binary-amd64/Packages
+ f934af1f1d408315c8d7f61291c4fb40836ac0d3 2262 main/binary-amd64/Packages.gz
  e34956f6cd12effba753485913dc48524aea8f52 113 main/binary-amd64/Release
- 63a16df291c7a50d0bf711cc738e50a2f06be1b1 6582 main/binary-arm64/Packages
- ae2048077723f8ec776cfcfa7a19b0bd300fdec7 2288 main/binary-arm64/Packages.gz
+ 0fd36848487f1bcc6dc35549b2de13033d3052fc 6492 main/binary-arm64/Packages
+ f934af1f1d408315c8d7f61291c4fb40836ac0d3 2262 main/binary-arm64/Packages.gz
  2215f376c2937e748fec1c942fbadec234ffd396 113 main/binary-arm64/Release
- 63a16df291c7a50d0bf711cc738e50a2f06be1b1 6582 main/binary-armhf/Packages
- ae2048077723f8ec776cfcfa7a19b0bd300fdec7 2288 main/binary-armhf/Packages.gz
+ 0fd36848487f1bcc6dc35549b2de13033d3052fc 6492 main/binary-armhf/Packages
+ f934af1f1d408315c8d7f61291c4fb40836ac0d3 2262 main/binary-armhf/Packages.gz
  18b19c4ed5250b0eea87f6ba39e63d728b721708 113 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  7e4678fdb9270274b230ab550663e787d3346acf 114 main/source/Release
 SHA256:
- 1b2698236ccf7a298a86cebd93b7f956bdee3d6200ff6659858748b12d40dabc 6582 main/binary-amd64/Packages
- 22b8ee6bccdacee05c97b08fbda1dfe107bab9046d979b96a291ccc3ecaeb425 2288 main/binary-amd64/Packages.gz
+ e38b7b64d604792aabb3f285a10e1aec428df2d44315d1ef08e8f422c0927836 6492 main/binary-amd64/Packages
+ f6ce69f0cd445208d8380da07cc54bfeb4a2bd945699b3bc6fb35d5068027658 2262 main/binary-amd64/Packages.gz
  2a008d1e61f06bff74705f3c8dd4667330f0c9731c861041a1b9c3e6bffe7552 113 main/binary-amd64/Release
- 1b2698236ccf7a298a86cebd93b7f956bdee3d6200ff6659858748b12d40dabc 6582 main/binary-arm64/Packages
- 22b8ee6bccdacee05c97b08fbda1dfe107bab9046d979b96a291ccc3ecaeb425 2288 main/binary-arm64/Packages.gz
+ e38b7b64d604792aabb3f285a10e1aec428df2d44315d1ef08e8f422c0927836 6492 main/binary-arm64/Packages
+ f6ce69f0cd445208d8380da07cc54bfeb4a2bd945699b3bc6fb35d5068027658 2262 main/binary-arm64/Packages.gz
  a0ff93e21989762d935e0b1a57fefa4b3d7ca4777ae75acd37f48d18cbbf6c8b 113 main/binary-arm64/Release
- 1b2698236ccf7a298a86cebd93b7f956bdee3d6200ff6659858748b12d40dabc 6582 main/binary-armhf/Packages
- 22b8ee6bccdacee05c97b08fbda1dfe107bab9046d979b96a291ccc3ecaeb425 2288 main/binary-armhf/Packages.gz
+ e38b7b64d604792aabb3f285a10e1aec428df2d44315d1ef08e8f422c0927836 6492 main/binary-armhf/Packages
+ f6ce69f0cd445208d8380da07cc54bfeb4a2bd945699b3bc6fb35d5068027658 2262 main/binary-armhf/Packages.gz
  6a29e3e6e89bc397c616173f5da75410915d8609bd15fd8ce29617f55aa4bc80 113 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
  7230d28b41a0c4517551b1472025f31661cda63667ff6db0b48f67293a639b71 114 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEmDNkohw30Wq1O5WefYky4+5BudEFAmkpkokACgkQfYky4+5B
-udFXiQ/9GPyiOCNoVukwPD9K932Zx8dwbvis7k85NRCDHjCwYiN8ILk20zrAap5I
-B1hV3hsIdLNUyNLGnl7gRGHKQE3YQumZdrfEIFxv8YLA6Mk7YYVNlosR7bx7m8k8
-dhSZNyIv8tFyiWl+swvrJtCclBSE1jwQnDV/z93czOY446Tpk5BOGYkDfYIxLqGv
-ZBCqWzyNGAo4vGjmgO3PpzTMu0qTid+fdYu56R2vRlFDZVLmdnY8B2DUJyXtRBUv
-GNKQd7o/mm/4c6Mg5ElXXAQuqqm5T0o+ZBiZfCpC56/iiP2PLuMqLu8IV8LBvOHk
-ToXI0qto6zbLnk/cGn7nqyFF8XEpE5103eD7NrmE8Ekwwyg4Ma1CHdVjwL7taMjG
-tND51gZFX+u1HsiscfDgij7PvVfoakiu2CFpDXemz3fQSU7S2KdRxn73sYxe7Af1
-YXoQCcKTGoLf7z4Mw53vLnhlC329P/Eqzz4Itc3xMe9BtrKFpBmG/7yjKwILB1Ep
-SskezBBMNGUccYOW1/I3exzq+qoEzIbe/a8ESEwrhy06YeOSRVt5aIFSBBnb0iKL
-X9YOroGtOlYd8B9Gev/HcqKwAEkte5oG8gvevO2hCelmJJj+2aqdJZsCvs/80zX3
-jbs0N0zYvV28S/Ggc5rmlYzD8t7G7pQ5yg1RAkoWqqc33XbXBb8=
-=hTQZ
+iQIzBAEBCgAdFiEEmDNkohw30Wq1O5WefYky4+5BudEFAmkplHkACgkQfYky4+5B
+udFbxQ/+OxsURaM6gmZ3QFGlMOTekiWWOgIBN5yPICvcYq8zAIVoW0myo80ag312
+lqADEbAk/ZcyvmFbITqnttCy7XiEFtMSp3hV9o9Ff07Kz6KYqI6oIF96QQbSY1o1
+Xpq2KGCCdOmuHKx8zUtGevJu9SwxnUGljBaviyeDelcJfmhVD4XbSdc373DInclX
+dekWtSjf5Hp3BhLjCVk/BFCwdAFGd/Zpm+N9BpyDyPowDHjTkjFuLJxQqQtq+6o/
+/GPlVy4qZMZaac6hrsqg8V7RkJk8svK37MwbA+xC7Cl6LHJ9Lq86Jrma7J1MHL47
+ON+KxMWZv3CkoKvzWohjkyyJdzzDXXQkCdmn3m1Cg9R13XCZTl58s2hd9QkJyaNH
+Bd26HTnNGz5Sn+t5sQV8rDmgzfebCEn4DKv+VTFxgbywCp5oI2DncVGkDh+jo03A
+oy5oVt3irt3uA9e1i2lyg7fUZ5mMvvFXeF4F0B7J7/PEOvGqOPLVa6RtghN/aTyq
+QSk6VaVzS0fu7x/Ew/6e7mJpyo/tGqtx2v/pAF/PfRECU1cteBTe6+tHkZ3JX4pP
+VgnPX0OqzJF6CU0/cGo9gIOvCukRlKc63fI8yTUN4drkJFWH8d7oe5JhXhZSMc0b
+w0dihBl6bpscccpA6u1V3FWG8br0lOskBvQmsXiO+qcBtGuXijw=
+=GHrk
 -----END PGP SIGNATURE-----
