@@ -45,9 +45,9 @@ Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_3.1.1_all.deb
 Size: 52724
-SHA256: f38efb47feeeade40c2514825c20fda05585ffa80b24bb4b14f7b2786ffea4a8
-SHA1: e62af25016426778478a01e7faa7dbdd98ed4f85
-MD5sum: 80d73d40da21b1310e227de02945cbd4
+SHA256: f19d600fb7a298b4602c8b0eba6c70f303a4a3906f3118ac24c8f8f2a3197702
+SHA1: d36bf88e94ff354612495ea8a45eef89d0bf2651
+MD5sum: 103006e7ff15b820b412af048f07c5d3
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
