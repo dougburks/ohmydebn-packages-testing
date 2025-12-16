@@ -153,19 +153,19 @@ MD5sum: 3bf02ff96088b34fbcb1e6ce7a0246f9
 Description: Themes for OhMyDebn
 
 Package: ohmydebn-themes-omarchy
-Version: 3.2.0
+Version: 3.2.3
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 40814
+Installed-Size: 44774
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.2.0_all.deb
-Size: 40274462
-SHA256: 3a0ac7decb8d1f80b9a94a47744ee6d31cc2155357c0d9c8e4a80dbb6448dca0
-SHA1: 46840e668d04f2b385596f18f3dd7f29b7a6fd33
-MD5sum: 2ceae12492e7861fdac572585ca51e04
+Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.2.3_all.deb
+Size: 44293516
+SHA256: 7e1a6162ad9c65fac3cbe194da8d02841656ae2afbb529e144d4bb0737050079
+SHA1: 37efc16b872efe0f7fda6ff0d78efed500e38e06
+MD5sum: 98ee440c0a59d589c012d4b648078df6
 Description: Themes from Omarchy packaged for OhMyDebn
 
