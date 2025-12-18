@@ -33,21 +33,21 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.2.1
+Version: 3.2.2
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
 Installed-Size: 204
-Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, grc, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
+Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, grc, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.2.1_all.deb
-Size: 53172
-SHA256: 248edf8b9736b8fb3d90488aa9db3256cf50d6382151c701a3fd47e772c02d9d
-SHA1: f95fa8f18e72f180da3f06e4e42efe12c0019417
-MD5sum: b1bbfb95fa30451252b7a430478ab327
+Filename: pool/main/o/ohmydebn/ohmydebn_3.2.2_all.deb
+Size: 53188
+SHA256: a3751bdb8098a179a6c0f28c7cac47f15ac351804d7658940b98cb467668f245
+SHA1: d6cbc579cdd46e8f3d054da850ff882b41445c0c
+MD5sum: 19760803b5397543811cd67bd74ebe7a
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
