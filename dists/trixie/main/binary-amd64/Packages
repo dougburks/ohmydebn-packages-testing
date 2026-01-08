@@ -51,7 +51,7 @@ MD5sum: f822ba5cdcb6693a043ab7170a8adffc
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 2.20.1
+Version: 2.20.2
 License: unknown
 Vendor: none
 Architecture: all
@@ -60,11 +60,11 @@ Installed-Size: 1618
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.1_all.deb
-Size: 564778
-SHA256: 514b969087f719dd892792cc85bf02721bb28f0c7161b37dd62a658a03674e1c
-SHA1: 95521333b891bd592284045fe01a904055393f7e
-MD5sum: 1530b554a38644fd8945bcd5771b71e4
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.2_all.deb
+Size: 564976
+SHA256: 154850caedae1f703e40d83eb19a5a38c623b2eb1d5c81b751c7561e2acd45ad
+SHA1: 30a1add63c79e1e8ac791508c2467e580617424b
+MD5sum: bc708ed390e485fb8c0d2c7c546d7a6b
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-caskaydiamononerdfont
@@ -153,19 +153,19 @@ MD5sum: 3bf02ff96088b34fbcb1e6ce7a0246f9
 Description: Themes for OhMyDebn
 
 Package: ohmydebn-themes-omarchy
-Version: 3.2.3
+Version: 3.3.0
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 44774
+Installed-Size: 48749
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.2.3_all.deb
-Size: 44293516
-SHA256: 7e1a6162ad9c65fac3cbe194da8d02841656ae2afbb529e144d4bb0737050079
-SHA1: 37efc16b872efe0f7fda6ff0d78efed500e38e06
-MD5sum: 98ee440c0a59d589c012d4b648078df6
+Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.3.0_all.deb
+Size: 48390612
+SHA256: 1ed36b5c9e5c8034cf9bf1c9ddf54f174c8cc63c85dd96fe712e1e34acdd44f0
+SHA1: 2071bc338e7abf1066d5d145319b1a4d7e47406c
+MD5sum: 769af1958cddbc36bd35f4467d6f0d6d
 Description: Themes from Omarchy packaged for OhMyDebn
 
