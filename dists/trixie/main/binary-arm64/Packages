@@ -38,16 +38,16 @@ License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 209
+Installed-Size: 210
 Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, cinnamon-desktop-environment, curl, ethtool, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, golang, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, screenfetch, shellcheck, starship, systemd-timesyncd, toilet, toilet-fonts, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_3.3.0_all.deb
-Size: 55534
-SHA256: bba45c001bdc7ce6cb23de6c91010881a6233d5347e5acb10fcbb551a894c266
-SHA1: 00da95aacc74a0b1256d67f2809668c5048a228b
-MD5sum: 413bb83eddbf6c41734171d62d65a858
+Size: 55630
+SHA256: 34a6917c40b6fd986a65ffb44023316b79e36a7e5b57d9b476e36c4db416b0ad
+SHA1: 6fd2be1bf03fded9281971aaeb2987c389c61fd4
+MD5sum: 643586065b9b1017040b97cc7a0ae835
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
