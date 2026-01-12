@@ -51,20 +51,20 @@ MD5sum: 0d15decd740ff7314fce414fbdcf8be8
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 2.20.2
+Version: 2.20.3
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 1618
+Installed-Size: 1615
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.2_all.deb
-Size: 564976
-SHA256: 154850caedae1f703e40d83eb19a5a38c623b2eb1d5c81b751c7561e2acd45ad
-SHA1: 30a1add63c79e1e8ac791508c2467e580617424b
-MD5sum: bc708ed390e485fb8c0d2c7c546d7a6b
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_2.20.3_all.deb
+Size: 564656
+SHA256: ab3914a906b21b1831c7aebdc871e575eb4455d3da61628048163eb58db2a31c
+SHA1: 03498199e99ffc6469d76fca0c5061ebbbc51b09
+MD5sum: 0a42a09dc17741b30c3d678940c3ceb9
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-caskaydiamononerdfont
