@@ -33,7 +33,7 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.3.0
+Version: 3.3.1
 License: unknown
 Vendor: none
 Architecture: all
@@ -43,11 +43,11 @@ Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, ci
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.3.0_all.deb
-Size: 57784
-SHA256: 659567e57bc0f299c7efe998de0269d7460ec69444c4e48d1dd4def7236e545c
-SHA1: fa1e1c025239a2e7ea5c8d85b23cdfc46c20f418
-MD5sum: e14f06714e9ed28a12bb9fb6691eb9c4
+Filename: pool/main/o/ohmydebn/ohmydebn_3.3.1_all.deb
+Size: 57790
+SHA256: 0fcf585fb8ebac4ebc42a1cd906dd69a1ee02d561051a0125ef8e4b48bf21ae5
+SHA1: f42e7c80e67e6749542eb2ed9f1b680150c17ff4
+MD5sum: 6ef903a5973aa0e3ced0a0adbb12d9d0
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
