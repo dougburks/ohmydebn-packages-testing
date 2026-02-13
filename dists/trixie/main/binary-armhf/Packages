@@ -135,6 +135,23 @@ SHA1: cceff5ab621a0db85e99c71709d8425cd519f6d6
 MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
 Description: gtile-OhMyDebn extension for Cinnamon desktop
 
+Package: ohmydebn-templates
+Version: 1.0.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 3209
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-templates/ohmydebn-templates_1.0.0_all.deb
+Size: 757346
+SHA256: 5b4260bdc9f3e0bdd2f7420a15368efd10b5c98ee1c1b4ad1bab5f57464bd52b
+SHA1: eff76b478e2b838eff09a344551b8a4bb339bd0b
+MD5sum: 93ac31b762d2774ccdbbf8ef4379326e
+Description: Theme templates for Cinnamon desktop
+
 Package: ohmydebn-themes
 Version: 1.0.0
 License: unknown
