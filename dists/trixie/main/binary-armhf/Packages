@@ -175,14 +175,303 @@ License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 64538
+Installed-Size: 0
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.4.0_all.deb
-Size: 63864888
-SHA256: 61a83d524389c5860de31e17a2108a52e89d171773092d09ed6d2ace25bc27e9
-SHA1: 7aad0296bbac6a07e1511f84617e6174e9d3a8e2
-MD5sum: 9383f9923dfb285334394f36a2edabbe
+Size: 1090
+SHA256: d02c835a7199660c3cc29f67c5d44ffba0db9d75da010f85e9c8760a1c663619
+SHA1: 2cabe96327e74ae0e3ba2b153cffce34bc35ba37
+MD5sum: cfe33e33db42021e5d68a09db39b29a9
 Description: Themes from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-catppuccin
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 2411
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-catppuccin/ohmydebn-themes-omarchy-catppuccin_3.4.0_all.deb
+Size: 2416262
+SHA256: c2630ff29a272fb65155e78d512622a746c4806437718a97290db96ea400db61
+SHA1: 754305a988e2ddd377efc26623e7b3a6c855d545
+MD5sum: 437a654e386010353e44bef0e1b0bafa
+Description: catppuccin theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-catppuccin-latte
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 1254
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-catppuccin-latte/ohmydebn-themes-omarchy-catppuccin-latte_3.4.0_all.deb
+Size: 1281970
+SHA256: be71858114560300bd9fac9fee0f9ecbed1a1051eb974b86839b26cb0361f925
+SHA1: 3cb2f0684f230db99e0a51624ff1aa1be416c9c7
+MD5sum: 034bd82576d2f8fef8e789d383091b78
+Description: catppuccin-latte theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-ethereal
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 5904
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-ethereal/ohmydebn-themes-omarchy-ethereal_3.4.0_all.deb
+Size: 5973776
+SHA256: 4752d7d3b99926169e02ea3b450c02ceaaccf3c5e6cef437ef473ebfce8ab3e8
+SHA1: cddbbe57043c02c1c506d9b055be30a6501e09fa
+MD5sum: d675466b9a9ad9578733a5125df74902
+Description: ethereal theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-everforest
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 754
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-everforest/ohmydebn-themes-omarchy-everforest_3.4.0_all.deb
+Size: 737804
+SHA256: 4bf0b989212a2c8438d36e3ba2d8baeb639d1ca6de575bc2f15c189185f02db8
+SHA1: 828c62bb15a67b889a1098a354665e7491aec336
+MD5sum: 1a74d7f09c1b1c74073c808916fc8a80
+Description: everforest theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-flexoki-light
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 807
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-flexoki-light/ohmydebn-themes-omarchy-flexoki-light_3.4.0_all.deb
+Size: 742272
+SHA256: b3052b2b3b983028649e7dec3b0584443180a943af06802b5f6f33caba7d2355
+SHA1: f1adc88501d973c1503416acb4e8b4330fef8689
+MD5sum: d614991f6245546ae934dfa635af9cea
+Description: flexoki-light theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-gruvbox
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 5010
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-gruvbox/ohmydebn-themes-omarchy-gruvbox_3.4.0_all.deb
+Size: 5123762
+SHA256: c4319d7bdf4bcb54c505c86eb00086fc33f7d055d2d1aac3fa565993366e5b21
+SHA1: 7dd32cee79ff6c9f09d9146be2176be5ccc76879
+MD5sum: ea4b46f988421783e2765d6d1442d410
+Description: gruvbox theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-hackerman
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 4694
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-hackerman/ohmydebn-themes-omarchy-hackerman_3.4.0_all.deb
+Size: 4286590
+SHA256: 526eb5c5e6e577a9bbb3fdb9c15348b207155ed4db82b62e950b6a57b8acf5c9
+SHA1: 75b27aaacd5b0f5f5b262809c40f0ccbf19e0922
+MD5sum: 971b6cb60ee066dd7269cd15d850e364
+Description: hackerman theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-kanagawa
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 2186
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-kanagawa/ohmydebn-themes-omarchy-kanagawa_3.4.0_all.deb
+Size: 2225542
+SHA256: 9efe5716dc89a190eac8d53bf595cd9a29421f47c30d69dbfd77b255764b566a
+SHA1: b3d0c0e4ceb92c26fe0f50a5f458736db26f88a5
+MD5sum: 0473b30e61fac1d8a00a7f7316b016d4
+Description: kanagawa theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-matte-black
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 3674
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-matte-black/ohmydebn-themes-omarchy-matte-black_3.4.0_all.deb
+Size: 3684572
+SHA256: dae8cf74d2a78b75dd43894aba08fa0146bd767c0ebc94979e64387495e5415c
+SHA1: a18fd45c9fb247591a492432d52ea1af959d2a76
+MD5sum: eb0d240e2b30f17ce308e285f0797d6a
+Description: matte-black theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-miasma
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 2143
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-miasma/ohmydebn-themes-omarchy-miasma_3.4.0_all.deb
+Size: 2189836
+SHA256: f5abd889e7f2e743faf5157a673d70dce8f4f4d0cba74ef232691cabd86fddae
+SHA1: f8664d9d928a8c3b158d77c15e778fc770283e50
+MD5sum: 42425b757e32adc9ee861f65d1b85d62
+Description: miasma theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-nord
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 5845
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-nord/ohmydebn-themes-omarchy-nord_3.4.0_all.deb
+Size: 5936252
+SHA256: 9078984d43e0bfb08cd1c8a2ad493b7f45b21da55835e589f0b14bba0507a4f6
+SHA1: 40780df4e7142f11a1e403fccc1112aa148a3fda
+MD5sum: d0c4af12dd80b31cf7d74571ebe98931
+Description: nord theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-osaka-jade
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 5077
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-osaka-jade/ohmydebn-themes-omarchy-osaka-jade_3.4.0_all.deb
+Size: 4876666
+SHA256: 8056e96c256c6efbcfb1f2a65d42e56cce3e41c6b171051193081f2bf1074392
+SHA1: b697ce96af323cd479738df0fdb1689d73c47567
+MD5sum: fb594e84f25f7127492552e3e45ebb82
+Description: osaka-jade theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-ristretto
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 3055
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-ristretto/ohmydebn-themes-omarchy-ristretto_3.4.0_all.deb
+Size: 3096944
+SHA256: 6fc3ab55600096af4c66a6b6fe9fcaf7bfb408ca0f5c1259c6d492a11e01c2db
+SHA1: aebbb5defc40fe48e84686c2c494b796de8582b8
+MD5sum: ba330c29959e5d263643eefbb32f2a4b
+Description: ristretto theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-rose-pine
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 3109
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-rose-pine/ohmydebn-themes-omarchy-rose-pine_3.4.0_all.deb
+Size: 3055746
+SHA256: f608c0fd0a700c627986376c7a003fe6cea885a6debc08c23664c20679fc2ed9
+SHA1: 078632ed6ac0c17fdf4b18d0cf5aa0a725831988
+MD5sum: 0fe5302e584a9993afbe88e1f7fa4bf1
+Description: rose-pine theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-tokyo-night
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 11015
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-tokyo-night/ohmydebn-themes-omarchy-tokyo-night_3.4.0_all.deb
+Size: 11162906
+SHA256: 170a67e1b833051d3205f691f4c7431ba3b744fc2b02c4612e279e42a1a3dc7c
+SHA1: 069b8598694fc5a62388ef8ca93be55e3a6a8ed5
+MD5sum: b360555a00c8aaf77e69e5cffe163ae7
+Description: tokyo-night theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-vantablack
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 3044
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-vantablack/ohmydebn-themes-omarchy-vantablack_3.4.0_all.deb
+Size: 2925392
+SHA256: 030ad5c1a47d84c1fc58fcefe987779d7bf71fa73f8106809fe4360796257888
+SHA1: ac43d4526186cc7e4c386058b359b71b48fc8f5c
+MD5sum: 3716ae2a53606c00df2ec59b10dde2b3
+Description: vantablack theme from Omarchy packaged for OhMyDebn
+
+Package: ohmydebn-themes-omarchy-white
+Version: 3.4.0
+License: unknown
+Vendor: none
+Architecture: all
+Maintainer: Doug Burks<doug.burks@example.com>
+Installed-Size: 4550
+Homepage: https://ohmydebn.org
+Priority: optional
+Section: default
+Filename: pool/main/o/ohmydebn-themes-omarchy-white/ohmydebn-themes-omarchy-white_3.4.0_all.deb
+Size: 4165172
+SHA256: bf56eba6c547050eb4c8b20081b6eccaaf9812b9db16980fb39d93f74022aae4
+SHA1: 4abf35c49da354eb07f702ee2772d4e71932f046
+MD5sum: 17305bcc5f0282c584cda82ffd1876e9
+Description: white theme from Omarchy packaged for OhMyDebn
 
