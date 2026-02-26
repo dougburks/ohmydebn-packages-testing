@@ -181,10 +181,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy/ohmydebn-themes-omarchy_3.4.0_all.deb
-Size: 1224
-SHA256: 02f8844e94b3d6987e5e9decfb722742aed7a5aaa565e1dadc0e67b877b90f56
-SHA1: 4d74b62440d744264383b244c94f7e6f3e649009
-MD5sum: 08bebdd8a552c729f40d414bc788e67b
+Size: 1228
+SHA256: 0e2fd65f8f880f4471866587f0906ce359dcae695e14626164aaedc7ab1fcdb1
+SHA1: 49c2f2eb7bae1214dc2c9321b0144a7e0c0955c2
+MD5sum: d39cbd37a718ec4bed9e6cd2550d7475
 Description: Themes from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-catppuccin
@@ -198,10 +198,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-catppuccin/ohmydebn-themes-omarchy-catppuccin_3.4.0_all.deb
-Size: 2416262
-SHA256: af0ff6dbfde8868bea6bb77554be22edcd23adc177c490c54ccf042f9af824f2
-SHA1: 4f6febea875817ac72c38d324032395a2d68750e
-MD5sum: 4a2ac2fb757192be78e6ce915c739a3c
+Size: 2416254
+SHA256: 09182fee420fe0eef5cbfc5adf657ed4b72ee6a9973a9725af97ca88fd10ab56
+SHA1: 3e744003f254ac13b1a378721a5e695e2f609738
+MD5sum: d41f8a7516b6fe091da3553a1667221e
 Description: catppuccin theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-catppuccin-latte
@@ -215,10 +215,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-catppuccin-latte/ohmydebn-themes-omarchy-catppuccin-latte_3.4.0_all.deb
-Size: 1281968
-SHA256: b313e6fb8f949d254ee8dbe15aa0c785b0d2897fe066115515ba2485f7daf61d
-SHA1: 4794c81c5b82f4c1c9142f9623f9c7c6bd3444e2
-MD5sum: 928fdba03d854b1865ea8836d7685573
+Size: 1281950
+SHA256: 6748c7523c578ef151b9110842de9a6f60924ba59710a634ca0e84acc81b35dc
+SHA1: d3558116d5b88b36b1a64c35c34e377f28ab1541
+MD5sum: a1ca42fa148825a5be66ef825d5934cb
 Description: catppuccin-latte theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-ethereal
@@ -232,10 +232,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-ethereal/ohmydebn-themes-omarchy-ethereal_3.4.0_all.deb
-Size: 5973784
-SHA256: 249cbab12df89eaa19f4a031316311b82a992cd5893561e5125697efdb388384
-SHA1: ef2b3c92ee9635c00804b919e8c7c34cf4ca2bcd
-MD5sum: 942e3579a2543c7de223092a28581608
+Size: 5973774
+SHA256: b88744b43a2d9427770d24ac647611de1e60fa0b0e44a5fc3083811049dc13e4
+SHA1: bec4287fde42cace70c31a0e5c222b85db00ac3c
+MD5sum: 72e095d11a8b33af6bddadb63f4e9c41
 Description: ethereal theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-everforest
@@ -249,10 +249,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-everforest/ohmydebn-themes-omarchy-everforest_3.4.0_all.deb
-Size: 737804
-SHA256: c01640cdd59e0cdf94a4ee86e44a461dfc3ee4401fc9f0bb81fdbfe80b1790fc
-SHA1: 616642932102bc9003be4a8a28082543b830e92c
-MD5sum: 6bf96751c0216c5156a309ca71866ab2
+Size: 737788
+SHA256: add31466394222390ec80b1c7cb1889e815d4cec0e9fec833570ed08757b1bc3
+SHA1: bacba64e7aa84e2986d85dd1a0203d81f40db02c
+MD5sum: b2cf219d7118a09c02744509cf4b9df5
 Description: everforest theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-flexoki-light
@@ -266,10 +266,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-flexoki-light/ohmydebn-themes-omarchy-flexoki-light_3.4.0_all.deb
-Size: 742272
-SHA256: 6e3778944ea272a0ec8bfb758b74115a0a2eb8670da4e01477a6e83a368f0459
-SHA1: 7c78e414f7c64e1b1743008a22afdff33ea8bb54
-MD5sum: cc1f2ff1d008becf89c904b3ad1fc161
+Size: 742256
+SHA256: 08700437bd2bbd0f9827c64e449baff5dfcd941c864b9b388f09631db5c98384
+SHA1: 4dcfa07bdbf423eade6f0cbebb0b5a0facb549ba
+MD5sum: ac299e1f31d58ed8d25d314cf52390e4
 Description: flexoki-light theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-gruvbox
@@ -283,10 +283,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-gruvbox/ohmydebn-themes-omarchy-gruvbox_3.4.0_all.deb
-Size: 5123766
-SHA256: df346ed39416b6b62847774e40fbea9341a20949790cb2e208874a2ba4c1a347
-SHA1: 1fa142c75933dab680c294a17bd917c962f10fa4
-MD5sum: 013baac016180155691712aa778827f5
+Size: 5123744
+SHA256: 3d62d42ef33e60be1d6339357576793dc4ce8d2e2deb59f19e1919fc5bc061f2
+SHA1: 465ce6d59d1efdefdda68a309ff12e4565e0cab3
+MD5sum: 263c5654b69600e48aa9154d49e2b485
 Description: gruvbox theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-hackerman
@@ -300,10 +300,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-hackerman/ohmydebn-themes-omarchy-hackerman_3.4.0_all.deb
-Size: 4286600
-SHA256: fc58748c5aeaf220beb6e87ffd90eb9f509edc1c6c773335bd32651f031fc76a
-SHA1: a2b0454cc06ac210f030c0612a8c2cf24c5d036f
-MD5sum: 5c8fba988d7fbe6b8814d848522c33b6
+Size: 4286582
+SHA256: b6931c11e110aa10ed2d592d903432aecfcdb886ee2efbdd65e697ec20a992fa
+SHA1: 694fe3868ab3153d81970ff71145edbac1ceffdb
+MD5sum: 85c2a7122c0612a82ff526f4bc2d20d8
 Description: hackerman theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-kanagawa
@@ -317,10 +317,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-kanagawa/ohmydebn-themes-omarchy-kanagawa_3.4.0_all.deb
-Size: 2225546
-SHA256: 53abf611e703f6fe323baca59a165363fd4fcfa30084892b66a104e635df0631
-SHA1: 40521dd6f79e851c35bdc3dc5eae8e211c8df807
-MD5sum: b29825a21db13f4326b534ffff828093
+Size: 2225532
+SHA256: 8ac145bb8c3ab6deb90d3b64c7ade01ba178b2280f3fba43aca7e86f194b2ccb
+SHA1: d209693f8d79e7582edbb7f57b5b2203289ab562
+MD5sum: e42e97930f507093b4833028e8c32a2e
 Description: kanagawa theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-matte-black
@@ -334,10 +334,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-matte-black/ohmydebn-themes-omarchy-matte-black_3.4.0_all.deb
-Size: 3684572
-SHA256: 33ecb4fc5da57fb771d943bb3936082c04f20f2414dad92fb176705b8b377c0f
-SHA1: 94c79ab8027b6f66e8a22e2c4bc7f4ae4126f93f
-MD5sum: b907bbfb3ec6f0fbf853654ef9fdd7ff
+Size: 3684546
+SHA256: 2802fafdf4577b8275dda7ab89518628c82d337b934a4cb4dc458fccf4c646d4
+SHA1: b97bdd83dcbfeddd8a008e76fdbb4a431892d277
+MD5sum: 4e62df280dea50ee8e6093681fa2d867
 Description: matte-black theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-miasma
@@ -351,10 +351,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-miasma/ohmydebn-themes-omarchy-miasma_3.4.0_all.deb
-Size: 2189836
-SHA256: 9881afb4e626e82182bd04d409fcb3e9d7c7e7ca3e885bef275fcba4047e2b2f
-SHA1: bf2d08f1ec1651b41d0669eabc4ee1c9fc99f802
-MD5sum: cf5b9597e68a6c64d9b74aca5a776c66
+Size: 2189822
+SHA256: e40349dda33094c82c9241e12204425d2d1a2aaee8be77b12b19e387d1b266a6
+SHA1: a1ee6243681327a21ebb8687709cbdb597a28ab2
+MD5sum: cfb4f4828d1262217a469f5e548266b3
 Description: miasma theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-nord
@@ -368,10 +368,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-nord/ohmydebn-themes-omarchy-nord_3.4.0_all.deb
-Size: 5936256
-SHA256: 4f9b24d8dd0139822231d40c331f4ebea073d765772c71d9e8c4a289a99a648e
-SHA1: 4163acf6b4d66d55c7a6c9334767bacde5818f05
-MD5sum: 5920a18a4e09aa550a98e65e89835baa
+Size: 5936240
+SHA256: b74142cf8fb41c79b7df58e751b7f043a9dd5b87360fcfa422dd3a4a6b04f2fc
+SHA1: 4a4a477e04484e73b8f4b174049a796a0a7f40d6
+MD5sum: 9574a9dcb458e2bd4d0aa9158b3b4244
 Description: nord theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-osaka-jade
@@ -385,10 +385,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-osaka-jade/ohmydebn-themes-omarchy-osaka-jade_3.4.0_all.deb
-Size: 4876670
-SHA256: 5e6b1e0983d5fadc1684f77cf26bac7670addec945ca2abe4af6e952596fec9b
-SHA1: a37859e28a7a7f81da8f52c33b7f81dd6c2a8c21
-MD5sum: d28bb354ad228b57029252d9adcb5fd8
+Size: 4876650
+SHA256: 1e09a867077b90c31a49ed0a3a18ee94269b54135688701efb08e3c19147a4ec
+SHA1: 2e6a6e2241d3a492d1385ad43fbfbcd4cfadc487
+MD5sum: d5e8d6e61c7e3b744c5589a62ea8d235
 Description: osaka-jade theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-ristretto
@@ -402,10 +402,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-ristretto/ohmydebn-themes-omarchy-ristretto_3.4.0_all.deb
-Size: 3096938
-SHA256: bfbb8fc4f3038c384c4c5fce72e9885982a8938ef201d5011356a443e2c04f92
-SHA1: e9b6acf23d65834a483d36316cfe1c0ed9a27ea8
-MD5sum: b2a5118cf27ed0a7bd1f2c35fa252c05
+Size: 3096932
+SHA256: 4fa04c234eccfe027cc2f1e6d41eae07a461e758e5a1055bdec3abda0a406a2a
+SHA1: 4841bf9a5c3a0b1e1af50ff1008f67bec172d70b
+MD5sum: 2ce435c0d4e289c16dd087277010c295
 Description: ristretto theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-rose-pine
@@ -419,10 +419,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-rose-pine/ohmydebn-themes-omarchy-rose-pine_3.4.0_all.deb
-Size: 3055746
-SHA256: 3d54f7e0f6eb34f08d78a1445399d443900d5fac5565be2ac6ac829114b542c0
-SHA1: 78283d835233f36dcfe8cb26c8921a08a684324d
-MD5sum: 7750d168a29778ec039f336e6afb2a75
+Size: 3055724
+SHA256: 7a48ff5a11cc164ffa71d20d0ab61561dece52c9c5e1310d39d735ff156fc764
+SHA1: 003b9f58c07afa8f2a41149a0b1ae8b8127a1673
+MD5sum: 8c1c23378e94365e222277eec0ea353c
 Description: rose-pine theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-tokyo-night
@@ -436,10 +436,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-tokyo-night/ohmydebn-themes-omarchy-tokyo-night_3.4.0_all.deb
-Size: 11162906
-SHA256: 7697f3ad75d41da03399a8af9ba70dedf28b0c346086bc21e7e953e48eb3513c
-SHA1: bb240b864818a3500684ac3c49d49667d8b62c3b
-MD5sum: 30966321836e861b2de9ec9f12fc20f2
+Size: 11162840
+SHA256: 3c33f05a6e828a7d1e9ce93855334ef2542035cf1e8968cf5daaf1a2fb4cdfc9
+SHA1: eec9201f8031b668f3fe5c1d888c5585f2d222df
+MD5sum: 7af5835b7d82d847fc81f71e6ff78c06
 Description: tokyo-night theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-vantablack
@@ -453,10 +453,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-vantablack/ohmydebn-themes-omarchy-vantablack_3.4.0_all.deb
-Size: 2925388
-SHA256: 1f18c24ebd525de730ed36e99d4be1e64dc6874cce9c1bd54d49b08933680e84
-SHA1: 383873d63e6879cf201e3f0c6eb9dc3a5fc06311
-MD5sum: b89ce136eeabf7eb54c91ae1e8aaddee
+Size: 2925372
+SHA256: 10d0d52cd7a4ce3299eb5389228cc341e1a1470303e8f407a90658819e5d7c2d
+SHA1: 1393f6e33367a485c1cf163fe3fc69a7852da807
+MD5sum: 04a481efdebe5ba2cfc9d26d725b05e9
 Description: vantablack theme from Omarchy packaged for OhMyDebn
 
 Package: ohmydebn-themes-omarchy-white
@@ -470,9 +470,9 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-themes-omarchy-white/ohmydebn-themes-omarchy-white_3.4.0_all.deb
-Size: 4165176
-SHA256: 06b75ab5ba9fdd2d0f56e01ae5f5c701655f489d397d4f20b95a83bb050082c9
-SHA1: 5072adf4033aaeb090643a87ceec93e257cb51d9
-MD5sum: 41a6b2bb88472975235392cc7a32811b
+Size: 4165152
+SHA256: 8b91e5d3b81baf9d574a4725b5579368b0054081e5da9d4d1c44f74ccec0076d
+SHA1: 4f8acfe3412538124109c4a7d9b4a8c96e541cab
+MD5sum: db39d83d4566bc28d126499d631dd025
 Description: white theme from Omarchy packaged for OhMyDebn
 
