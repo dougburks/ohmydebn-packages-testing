@@ -1,3 +1,22 @@
+Package: cliamp
+Version: 1.16.0
+License: MIT
+Vendor: none
+Architecture: amd64
+Maintainer: <doug@doug-ohmydebn>
+Installed-Size: 10265
+Depends: yt-dlp
+Recommends: ffmpeg
+Homepage: https://github.com/bjarneo/cliamp
+Priority: optional
+Section: default
+Filename: pool/main/c/cliamp/cliamp_1.16.0_amd64.deb
+Size: 4133616
+SHA256: 9aaade6132bf79565e55e0a2f146b945180f528ba26d638de2333078d669bb31
+SHA1: 96813665f760854e6ed2f5d097bcb3ac3fe85212
+MD5sum: 5e3438a722e09524f35b781dcf82fb89
+Description: Retro terminal music player inspired by Winamp
+
 Package: mint-themes
 Version: 2.1.6
 Architecture: all
