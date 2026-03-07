@@ -1,20 +1,20 @@
 Package: cliamp
-Version: 1.18.1
+Version: 1.19.0
 License: MIT
 Vendor: none
 Architecture: arm64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 21445
+Installed-Size: 15984
 Depends: libasound2-plugins, yt-dlp
 Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.18.1_arm64.deb
-Size: 9860846
-SHA256: 1f7132d2c4c309d08509a7d740464187ecbc6c787d880376a26ad78944065e44
-SHA1: ca27ce1f07ac1fb69e3c7d0a99882ea0fd3aa99d
-MD5sum: dee1bd7e23caf7d4298a41ce1a03203f
+Filename: pool/main/c/cliamp/cliamp_1.19.0_arm64.deb
+Size: 5608584
+SHA256: 59a2689e5eee10b23bbeb4c6e6af0ed2c9af886461552fc3f580b5477a7202db
+SHA1: 16b529c535eb6dd4afaa39a0f9dfc546b6ab2ecd
+MD5sum: 208b05924a826ef623d6f71fe15957d0
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
