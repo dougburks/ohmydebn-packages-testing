@@ -80,10 +80,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_3.0.3_all.deb
-Size: 546500
-SHA256: 7a29208cb2e95a3a870ccf5e5b53ceb442ad18c6604dc6924e97b63cf3fdbdbf
-SHA1: 686459a513356f1d0b2614c3c4d2876d5835d75f
-MD5sum: e389e494478b4dd822e3a8f4b6cf0822
+Size: 546506
+SHA256: 4115e0ed799c9882f5d81ba08270bee9b45f7d4498ed7bc7beed7ea442aab939
+SHA1: 0f900aa0d44032881f2ba5877189d8937980820f
+MD5sum: ec4c7af932eac0fa92450705bdae8414
 Description: Aether theme builder packaged for OhMyDebn
 
 Package: ohmydebn-caskaydiamononerdfont
