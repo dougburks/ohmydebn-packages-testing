@@ -87,21 +87,21 @@ MD5sum: 96b7a5b21e33f722104b0b87a554f219
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 3.0.4
-License: unknown
+Version: 4.0.4
+License: MIT
 Vendor: none
-Architecture: all
-Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 1648
-Homepage: https://ohmydebn.org
+Architecture: arm64
+Maintainer: <doug@doug-ohmydebn>
+Installed-Size: 9855
+Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_3.0.4_all.deb
-Size: 546524
-SHA256: 5e96bec4ad879e69a43af564288fa3eb69469f79854e33aa23ebe2ed516d8609
-SHA1: a8b365b7d9cc7b6f49f22d198447ea0d0687f8fd
-MD5sum: dd46296039061b3426dc13ed3043119f
-Description: Aether theme builder packaged for OhMyDebn
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.0.4_arm64.deb
+Size: 3909674
+SHA256: 59f33af8865953dfcc31566fde6282fe07ce66881f251a6ad23df27bd1faff78
+SHA1: c7548995a76b3678b8a81b614ed06c188b71989e
+MD5sum: fccb97f2cff7b3bdf58d0a2c6c7ff130
+Description: Create themes the easy way
 
 Package: ohmydebn-caskaydiamononerdfont
 Version: 3.4.0
