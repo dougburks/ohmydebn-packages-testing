@@ -1,3 +1,20 @@
+Package: aether
+Version: 4.0.4
+License: MIT
+Vendor: none
+Architecture: arm64
+Maintainer: <doug@doug-ohmydebn>
+Installed-Size: 9855
+Homepage: https://github.com/bjarneo/aether
+Priority: optional
+Section: default
+Filename: pool/main/a/aether/aether_4.0.4_arm64.deb
+Size: 3909302
+SHA256: 206c191136b4697f931ed383de96fd604729e0cc01c46a7cff39618d6b27f130
+SHA1: 400e4ef1ae0ffb204992f467e4ced2a5f9421ee9
+MD5sum: 19a71f924dbbfac579af334e1dc79576
+Description: Create themes the easy way
+
 Package: cliamp
 Version: 1.21.5
 License: MIT
