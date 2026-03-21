@@ -9,10 +9,10 @@ Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
 Filename: pool/main/a/aether/aether_4.0.4_amd64.deb
-Size: 4249464
-SHA256: 8036d98cf88cd80ed4bb083e530c8e81fc848f95845ce4ec880d0141ec9fc2cb
-SHA1: d71be9415d036f68a6ba40daff7f6e2ede4e7030
-MD5sum: 4034bf898f2dde096c53d2f6c587255c
+Size: 4249458
+SHA256: 2db698ea1ab070a8fad74af4514e37ca8632e8b7f8783b5520195c048697f0da
+SHA1: f8c5d44cb492423ef82f1364a6af62997dddf9f6
+MD5sum: d526bab7db8e1c7256ac2e88bb0efb52
 Description: Create themes the easy way
 
 Package: cliamp
