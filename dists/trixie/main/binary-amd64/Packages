@@ -98,11 +98,11 @@ Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.3.1_amd64.deb
-Size: 4510542
-SHA256: 085ba58b221ff2149a00761c848bef47a052243f1dd23a449c438c2eec5ecf33
-SHA1: 32373f03edd30679ecff659323826164b9cd28bc
-MD5sum: 0b2d779891134f494770e02240362a60
-Description: Create themes the easy way
+Size: 4510536
+SHA256: c80ec3938e400f27f832b93138afc1834a598864c6ee71f581b327c0f1687e11
+SHA1: 0e420a0c985547136c8fc27ffb1242380f2732e0
+MD5sum: e4a346093d08c9aa9c7d58d65cd64bd4
+Description: Desktop theming application
 
 Package: ohmydebn-caskaydiamononerdfont
 Version: 3.4.0
