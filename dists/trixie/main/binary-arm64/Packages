@@ -16,7 +16,7 @@ MD5sum: 9a170d2ecf38a35368554d08605cdfcf
 Description: Create themes the easy way
 
 Package: cliamp
-Version: 1.24.1
+Version: 1.24.2
 License: MIT
 Vendor: none
 Architecture: arm64
@@ -27,11 +27,11 @@ Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.24.1_arm64.deb
-Size: 9449126
-SHA256: 4cf60ec8a7492ff12682e439182075904beba1ec895e17d4f3e733541c9cf051
-SHA1: 33193aed3d9c5e31b3d7584350a634c60875b871
-MD5sum: bf294c41ea7a605fe7200f35175ce513
+Filename: pool/main/c/cliamp/cliamp_1.24.2_arm64.deb
+Size: 9451952
+SHA256: e4ada9afb7220bd44ac41606c4eb8940224a762814622004b3ccf62cba09da91
+SHA1: c3f52c67408607b7737ee2ec8dbc7220d2ff8d3f
+MD5sum: af00748461a7636bf8f047957bafd8c1
 Description: Retro terminal music player inspired by Winamp
 
 Package: mint-themes
