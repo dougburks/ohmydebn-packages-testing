@@ -69,21 +69,21 @@ Description: Mint-X icon theme
  Clearlooks Revamp, Elementary and Faenza.
 
 Package: ohmydebn
-Version: 3.6.1
+Version: 3.6.2
 License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 265
+Installed-Size: 267
 Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, chrony, cinnamon-desktop-environment, curl, duf, ethtool, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-templates, ohmydebn-themes, ohmydebn-themes-omarchy, openvpn, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, rsync, screenfetch, shellcheck, starship, toilet, toilet-fonts, traceroute, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn/ohmydebn_3.6.1_all.deb
-Size: 75072
-SHA256: c2be1acafdb32bba8eae8874bc24054903bf117ed2adc46a3c938a4769baadd4
-SHA1: 4e0033a19a70e0415ca9c2abb4dc67ea5b7109ac
-MD5sum: 8f5251dde84b605ac3fc7ce46bcd16c4
+Filename: pool/main/o/ohmydebn/ohmydebn_3.6.2_all.deb
+Size: 75436
+SHA256: 9e8c26b4a2b5ca14337ad708cd396eff105b574ef3b2893b13b8365fc51a7aae
+SHA1: 694d23fd5ab453ad092d7adb0b5f370ad31e652a
+MD5sum: ee75b97c1e0eb96247f2bc20b0c31590
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
