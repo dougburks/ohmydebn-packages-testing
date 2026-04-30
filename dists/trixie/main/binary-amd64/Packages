@@ -87,7 +87,7 @@ MD5sum: 243f34330364c1e89694680641151059
 Description: Debonaire Debian + Cinnamon setup inspired by Omarchy
 
 Package: ohmydebn-aether
-Version: 4.15.2
+Version: 4.15.3
 License: MIT
 Vendor: none
 Architecture: amd64
@@ -97,11 +97,11 @@ Depends: libwebkit2gtk-4.1-0, libgtk-3-0, libgtk-layer-shell0, gstreamer1.0-plug
 Homepage: https://github.com/bjarneo/aether
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.15.2_amd64.deb
-Size: 4621850
-SHA256: 58dc264abf6e0c0319488d426e17d129ef2abe37587f2cc3e3a1de40d6e9345f
-SHA1: 83b29ebe0adb652e0ca284397911bb5398c956c7
-MD5sum: 275e778d47c8ccf59bafdf9040fa82f1
+Filename: pool/main/o/ohmydebn-aether/ohmydebn-aether_4.15.3_amd64.deb
+Size: 4621918
+SHA256: 31ea6ac1b33937e5bdd7a3159963f7d08810271d560c48bffd4efdb63db7cc29
+SHA1: d100051043ef4f27b946898dadb5c2352fca9574
+MD5sum: 90d1231b85bcdc13f27f045cc70dddb3
 Description: Desktop theming application
 
 Package: ohmydebn-caskaydiamononerdfont
