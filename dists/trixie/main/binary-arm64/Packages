@@ -34,6 +34,25 @@ SHA1: c2660de6c0ee7ac9f3801266312e2eca370360ae
 MD5sum: 72eb15bca84b6d5bc861709273cc10ba
 Description: Retro terminal music player inspired by Winamp
 
+Package: localsend
+Maintainer: Tienisto <dev.tien.donam@gmail.com>
+Version: 1.17.0+58
+Architecture: arm64
+Essential: no
+Installed-Size: 30600
+Priority: optional
+Section: x11
+Filename: pool/main/l/localsend/localsend_1.17.0+58_arm64.deb
+Size: 10841168
+SHA256: c2c792aadabeecf864f4105f8b1f8693941bc752fda582f0d2b3794765fcf803
+SHA1: 008a96e952edb4e23d5453dae9d684d4cc3c1ddf
+MD5sum: 603dcdd5db0dbc3fd8b2e985e70ed5f6
+Description: An open source cross-platform alternative to AirDrop
+Homepage: https://localsend.org/
+Depends: libappindicator3-1 | libayatana-appindicator3-1, gir1.2-appindicator3-0.1 | gir1.2-ayatanaappindicator3-0.1, libayatana-ido3-0.4-0, xdg-user-dirs
+Pre-Depends: libc6 (>= 2.31)
+Uploaders: TheGB0077 <gb.lima.dev@gmail.com>
+
 Package: mint-themes
 Version: 2.1.6
 Architecture: all
