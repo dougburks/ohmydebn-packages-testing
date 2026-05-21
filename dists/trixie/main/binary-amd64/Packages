@@ -192,20 +192,20 @@ MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
 Description: gtile-OhMyDebn extension for Cinnamon desktop
 
 Package: ohmydebn-opencode-cli
-Version: 1.15.5
+Version: 1.15.6
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 140462
+Installed-Size: 140606
 Homepage: https://github.com/anomalyco/opencode
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.15.5_amd64.deb
-Size: 49212106
-SHA256: 7a9a7907d95ee26ed38b0d864b7af37c56c081a3b37dbdc99847f7a78a9f59c0
-SHA1: 733a3d373002e6a1861e7eb031168b81d76986c0
-MD5sum: 366feab8e1cd946efb4d159a78f6b152
+Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.15.6_amd64.deb
+Size: 49250830
+SHA256: c58f776c867e774f1482d00976fc92b89cf1452ad9cafbb971c1b364edf56163
+SHA1: dc98feb33a11b90280d8749fb9a4478c2fed9cfd
+MD5sum: 11988101bff039ee10451717154171dd
 Description: The open source AI coding agent
 
 Package: ohmydebn-templates
