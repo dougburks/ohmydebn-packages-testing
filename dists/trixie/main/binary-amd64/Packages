@@ -202,10 +202,10 @@ Homepage: https://github.com/anomalyco/opencode
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.17.20_amd64.deb
-Size: 69222606
-SHA256: 883dfc68994813ab6d0f2141adc0fb4c6612465261f1a9d057bf16faacc973ef
-SHA1: 054e0736c65ed0e58d996f845928dd33713ed470
-MD5sum: 12b39c533bf9daacf01e50b068deda93
+Size: 69222792
+SHA256: f1512c22e39b17530e2753176350995305f978001326cdae0914a48a39aec288
+SHA1: c2ef060a7588efaab045ec360ba17260c0d93932
+MD5sum: faf35ea4ce79dd5ac7d979b4a76db0f6
 Description: The open source AI coding agent
 
 Package: ohmydebn-templates
