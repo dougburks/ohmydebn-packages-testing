@@ -16,7 +16,7 @@ MD5sum: 9a170d2ecf38a35368554d08605cdfcf
 Description: Create themes the easy way
 
 Package: cliamp
-Version: 1.60.0
+Version: 1.60.1
 License: MIT
 Vendor: none
 Architecture: arm64
@@ -27,11 +27,11 @@ Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.60.0_arm64.deb
-Size: 10601172
-SHA256: 3a77d504a5f519f3a24d3bf916dda30d2e4ee52f0becfeae82b10b3ce02e79f3
-SHA1: 6e5e0797f2802cccfdb355744234e32980b48773
-MD5sum: 4823005271ee26d0e85b4eeae1d84fa7
+Filename: pool/main/c/cliamp/cliamp_1.60.1_arm64.deb
+Size: 10604086
+SHA256: 3adb3373b48c704e3ec2c1e116ea8c952ae3a24dca720167f419d1c5b6796d62
+SHA1: 6b9a73e830c3844414b6abe71759168784a92a08
+MD5sum: a90331e3ac9872fb9c53061668f9df6a
 Description: Retro terminal music player inspired by Winamp
 
 Package: localsend
@@ -99,10 +99,10 @@ Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_4.0.0_all.deb
-Size: 79138
-SHA256: 43cda7b88926ea33e62a5f48c25843a761fe2c030dad305ba13edee40ca47b20
-SHA1: 6ad3c33751b4102fb41309776bfa74184bc3c70c
-MD5sum: c4884332b2251fe9fac60f0e6dd5a9ef
+Size: 79146
+SHA256: 2ce5415967a4188d0b85d63d6d10e7556a14397b00194a968b0c4b3713ba4640
+SHA1: 8b3c7da07f05f0a945563aea8b2a5108fcf49297
+MD5sum: 9a72ef960431204cacc322f2a0169bec
 Description: Debonaire Debian + Cinnamon desktop for power users
 
 Package: ohmydebn-aether
