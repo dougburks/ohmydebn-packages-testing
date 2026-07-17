@@ -16,22 +16,22 @@ MD5sum: 9a170d2ecf38a35368554d08605cdfcf
 Description: Create themes the easy way
 
 Package: cliamp
-Version: 1.57.1
+Version: 1.60.0
 License: MIT
 Vendor: none
 Architecture: arm64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 30358
+Installed-Size: 30679
 Depends: libasound2-plugins, yt-dlp
 Recommends: ffmpeg
 Homepage: https://github.com/bjarneo/cliamp
 Priority: optional
 Section: default
-Filename: pool/main/c/cliamp/cliamp_1.57.1_arm64.deb
-Size: 10492600
-SHA256: 94ac5b8f1412c61bf742ad35c272185dcf1be5f117809cc6971c55cef777b988
-SHA1: 0ee760e9ab649b9158a8e2fe22cf68b99e38759d
-MD5sum: bbc7baabb4311811ffdd11fd528f056f
+Filename: pool/main/c/cliamp/cliamp_1.60.0_arm64.deb
+Size: 10601172
+SHA256: 3a77d504a5f519f3a24d3bf916dda30d2e4ee52f0becfeae82b10b3ce02e79f3
+SHA1: 6e5e0797f2802cccfdb355744234e32980b48773
+MD5sum: 4823005271ee26d0e85b4eeae1d84fa7
 Description: Retro terminal music player inspired by Winamp
 
 Package: localsend
@@ -192,20 +192,20 @@ MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
 Description: gtile-OhMyDebn extension for Cinnamon desktop
 
 Package: ohmydebn-opencode-cli
-Version: 1.17.20
+Version: 1.18.3
 License: MIT
 Vendor: none
 Architecture: arm64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 184362
+Installed-Size: 173354
 Homepage: https://github.com/anomalyco/opencode
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.17.20_arm64.deb
-Size: 69083058
-SHA256: 8fc730b0370620c7d30acb606aa386dcdf031248f46be1e1dbeaa978679f46ec
-SHA1: 6bc970270cbcfbc7a9f5d814d84b7c5a2f97f03d
-MD5sum: 371970eddee7dc7a06b9e1b2f8b133eb
+Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.18.3_arm64.deb
+Size: 58615618
+SHA256: 1c8c03391c854ceada4dbf7986065e2e15c737090f6ea3e193e36c9468a22f79
+SHA1: 61353880fa0b8f25f68a0e9b9075412c911af91a
+MD5sum: ef807c37068fa210cc0c4fa38d716ff1
 Description: The open source AI coding agent
 
 Package: ohmydebn-templates
