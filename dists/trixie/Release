@@ -1,45 +1,45 @@
 Origin: Doug Burks
 Label: OhMyDebn Repo
 Codename: trixie
-Date: Fri, 17 Jul 2026 18:47:53 UTC
+Date: Mon, 20 Jul 2026 17:53:13 UTC
 Architectures: amd64 arm64 armhf
 Components: main
 Description: Repository for OhMyDebn
 MD5Sum:
- 98f96b8ca0705ea7a6a88f335314bde8 21700 main/binary-amd64/Packages
- f6a81175f22d991db8a690f9828de9d9 6327 main/binary-amd64/Packages.gz
+ bc06cd1f9f111b1cf6c68883070112fa 21700 main/binary-amd64/Packages
+ 98a3e3d8be82d643e5fc536b1b82ae4d 6324 main/binary-amd64/Packages.gz
  c78cd99c739ea234bc24782529e583bb 113 main/binary-amd64/Release
- 5d581d69e41fb409e99e3fb6753eafec 21699 main/binary-arm64/Packages
- 2c6f81627e21bb2197b5caaa1c2efc92 6323 main/binary-arm64/Packages.gz
+ 1c70177ebe432c62497b64af2e449a46 21699 main/binary-arm64/Packages
+ 0ecc3bc9765841fd4b6d3075c1bd25c0 6320 main/binary-arm64/Packages.gz
  cab0525725d99fa6ee8236706d37626f 113 main/binary-arm64/Release
- 5a04bce05bb8bc06f0f8f1367b83299e 17741 main/binary-armhf/Packages
- c15684a734514879cba4287509eee3d5 4739 main/binary-armhf/Packages.gz
+ 3c93219ebd0fefa8565b8aa98f0d213c 17741 main/binary-armhf/Packages
+ 6d11e6341430a36f19306280457c7746 4739 main/binary-armhf/Packages.gz
  27288b723e3a8ce8d530115b7419da15 113 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  30b5b59a5fdf1c09a7c195b60f06697f 114 main/source/Release
 SHA1:
- 09c779e260c066ff422ac7da4674f73b78dc79e0 21700 main/binary-amd64/Packages
- f3896f5a6e7def0fa7373ab992490e5f8e608de6 6327 main/binary-amd64/Packages.gz
+ aab3de74dd99d85d93d24fad15ae061bc3fd6404 21700 main/binary-amd64/Packages
+ 497bb1fbad690e3b678967e6711f2654e90d5a7b 6324 main/binary-amd64/Packages.gz
  e34956f6cd12effba753485913dc48524aea8f52 113 main/binary-amd64/Release
- 6950dd8b0ae6f50776d27db132883d2544a1f7fa 21699 main/binary-arm64/Packages
- 6f3e5234ed793bec52434a3d29c0737736520505 6323 main/binary-arm64/Packages.gz
+ abdd9239dd59a7e9916527951709573fbb5d2610 21699 main/binary-arm64/Packages
+ 92683b2daf75e32136ec1ce38e68d9403cb4cd50 6320 main/binary-arm64/Packages.gz
  2215f376c2937e748fec1c942fbadec234ffd396 113 main/binary-arm64/Release
- 0ae74d818f2189f3476ac68cd9b0289fe87185a6 17741 main/binary-armhf/Packages
- 3ae49ecccbd5713039a04f6329c3803b25c0c9d2 4739 main/binary-armhf/Packages.gz
+ 369d0244839bc5aa6ba8ba76eb05384ef19e3a59 17741 main/binary-armhf/Packages
+ ff71b63a0ea6d63c2b25e2355150364e469056df 4739 main/binary-armhf/Packages.gz
  18b19c4ed5250b0eea87f6ba39e63d728b721708 113 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  7e4678fdb9270274b230ab550663e787d3346acf 114 main/source/Release
 SHA256:
- 575e246310a5e1351d16690b5d7303c441ecdd1f5133333f9f94b30c3b925287 21700 main/binary-amd64/Packages
- 1e5097441359daece6de8e1db05ed94be49180c987019d71e49a4939c7f5bac7 6327 main/binary-amd64/Packages.gz
+ d29613a4fc34e45735add579f4dcb3bd370b7e64bc53a2782044e325bd9a5947 21700 main/binary-amd64/Packages
+ 089f5c1a136aece70c5cf228dbf3457fa109a5ae2ee6793f13cf18dfdc073dfe 6324 main/binary-amd64/Packages.gz
  2a008d1e61f06bff74705f3c8dd4667330f0c9731c861041a1b9c3e6bffe7552 113 main/binary-amd64/Release
- 4a4ef02f2c81a99bbde85c701296dc00413ac04d039bdbc1d31e8bf5c43b12e8 21699 main/binary-arm64/Packages
- c8cc6653895d2808462e5c972e43a1cc69887d01adb2c04ef7584c5a695a75d2 6323 main/binary-arm64/Packages.gz
+ 420e0abaa273cb7dbf8c4d72454606d182d8572baf71dee68339f8ae4cc9f5d2 21699 main/binary-arm64/Packages
+ 0baab0ac9911c695f832a7c406ee193908ba63e8198ba18f37722180f0cf22ab 6320 main/binary-arm64/Packages.gz
  a0ff93e21989762d935e0b1a57fefa4b3d7ca4777ae75acd37f48d18cbbf6c8b 113 main/binary-arm64/Release
- 33221ed640a6a5adc4d96c97d46a76e7a70d5ed491c0cfa2c1df41e6c1c17086 17741 main/binary-armhf/Packages
- 5b0dd2737463ef8e63287b5f818248e27332078452f893f1abdc7d0eaf710554 4739 main/binary-armhf/Packages.gz
+ 92161d3c68a6d6f6c3d61177a5b3350185a5e0091791ee699e4ae53bb12fad72 17741 main/binary-armhf/Packages
+ 7d07bbfaa2c3ad02e10c5e86667187c5d7db82482485b2d4dc7c58d21d251381 4739 main/binary-armhf/Packages.gz
  6a29e3e6e89bc397c616173f5da75410915d8609bd15fd8ce29617f55aa4bc80 113 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz

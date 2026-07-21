@@ -93,16 +93,16 @@ License: unknown
 Vendor: none
 Architecture: all
 Maintainer: Doug Burks<doug.burks@example.com>
-Installed-Size: 280
+Installed-Size: 281
 Depends: alacritty, bat, bibata-cursor-theme, binutils, btop, cava, chromium, chrony, cinnamon-desktop-environment, curl, duf, ethtool, eza, ffmpeg, fzf, galculator, gcc, gcolor3, gir1.2-gtk4layershell-1.0, git, gimp, grc, gufw, gum, gvfs-backends, htop, imagemagick, iperf3, jq, keepassxc, lazygit, libadwaita-1-dev, libglib2.0-bin, libgtk-4-dev, libgtk4-layer-shell0, libnotify-bin, libspa-0.2-bluetooth, lshw, mint-themes, mint-x-icons, mint-y-icons, neovim, ohmydebn-aether, ohmydebn-caskaydiamononerdfont, ohmydebn-caskaydiamononerdfontmono, ohmydebn-caskaydiamononerdfontpropo, ohmydebn-gtile, ohmydebn-templates, ohmydebn-themes, ohmydebn-themes-omarchy, pdftk-java, pipx, pkg-config, python-is-python3, python3-terminaltexteffects, ripgrep, ristretto, rofi, rclone, rsync, screenfetch, shellcheck, starship, toilet, toilet-fonts, traceroute, ufw, vim, wget, xdotool, xournalpp, yaru-theme-gtk, yaru-theme-icon, yq, zip, zoxide, zsh, zsh-autosuggestions, zsh-syntax-highlighting
 Homepage: https://ohmydebn.org
 Priority: optional
 Section: default
 Filename: pool/main/o/ohmydebn/ohmydebn_4.0.0_all.deb
-Size: 79146
-SHA256: 2ce5415967a4188d0b85d63d6d10e7556a14397b00194a968b0c4b3713ba4640
-SHA1: 8b3c7da07f05f0a945563aea8b2a5108fcf49297
-MD5sum: 9a72ef960431204cacc322f2a0169bec
+Size: 79444
+SHA256: 74a6e3336276b1cc989692c1531cfaf0c994d498da6d04673f85c04cccba72f9
+SHA1: 6e501ac85ef39770d46d9cf5b9e109e14b268bf6
+MD5sum: a70b6741b0b3def465f232e9863ee142
 Description: Debonaire Debian + Cinnamon desktop for power users
 
 Package: ohmydebn-aether
@@ -192,20 +192,20 @@ MD5sum: 2c64e2d019721fae9b14ad41357ab3f5
 Description: gtile-OhMyDebn extension for Cinnamon desktop
 
 Package: ohmydebn-opencode-cli
-Version: 1.18.3
+Version: 1.18.4
 License: MIT
 Vendor: none
 Architecture: amd64
 Maintainer: <doug@doug-ohmydebn>
-Installed-Size: 173838
+Installed-Size: 174714
 Homepage: https://github.com/anomalyco/opencode
 Priority: optional
 Section: default
-Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.18.3_amd64.deb
-Size: 58751242
-SHA256: 11ec4713ac837071d150c781fe498365fecec9978311ea5e99e8915bb3427033
-SHA1: 37cc46f66e340afbaef5ba04be5eee707da32b75
-MD5sum: 4d05ce37a877e9f9cf9aa76b38686f7e
+Filename: pool/main/o/ohmydebn-opencode-cli/ohmydebn-opencode-cli_1.18.4_amd64.deb
+Size: 59012212
+SHA256: 359dcafd9af8822a8f019ba9530c60f2ed64eca1aecb0b36574fecd9e7878c80
+SHA1: fa3a410b7e129507c7bc36648d4352521543976d
+MD5sum: 513ed24bbedc9c2cf691a966622e1e87
 Description: The open source AI coding agent
 
 Package: ohmydebn-templates
